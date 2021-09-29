@@ -1,0 +1,10 @@
+{
+  "name": "pnsfmr_m",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular"
+}
